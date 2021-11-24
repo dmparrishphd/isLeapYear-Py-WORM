@@ -1,2 +1,1 @@
-# isLeapYear-Py-WORM
-Compute whether a given year is a leap year on the proleptic Gregorian calendar
+[README](https://github.com/dmparrishphd/isLeapYear-Py-CORW/blob/main/README.md).
